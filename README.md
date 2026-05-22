@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- MAIN BANNER GIF - Mountain/Nature themed matching Shimla hills -->
-<img src="https://raw.githubusercontent.com/Shubii8760/Shubii8760/main/banner2.gif" width="100%" height="300px" style="border-radius:10px;" alt="coding gif banner"/>
+<img src="https://raw.githubusercontent.com/Shubii8760/Shubii8760/main/221242.gif" width="100%" height="300px" style="border-radius:10px;" alt="coding gif banner"/>
 
 <br/>
 
