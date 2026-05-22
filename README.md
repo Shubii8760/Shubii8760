@@ -1,8 +1,15 @@
+<!-- WAVE BANNER TOP -->
 <div align="center">
 
-# Shubham Sharma
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:1b4332,70:2d6a4f,100:00FF88&height=230&section=header&text=Hi,%20I'm%20Shubham%20🏔️&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=PHP%20Developer%20%7C%20WooCommerce%20Expert%20%7C%20Shimla%2C%20HP%20❄️&descAlignY=58&descSize=18&descColor=90EE90)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7C5CFC&center=true&vCenter=true&width=650&lines=PHP+Developer+%7C+Laravel+Craftsman;WooCommerce+%26+WordPress+Specialist;Laravel+Forge+%7C+Server+Whisperer+%F0%9F%94%A5;Building+e-commerce+solutions+since+day+one;Shimla+%E2%86%92+Production+Servers+worldwide+%F0%9F%8C%90)](https://git.io/typing-svg)
+<!-- VISITOR + REPO BADGES -->
+![Visitors](https://komarev.com/ghpvc/?username=Shubii8760&label=👁️%20Visits&color=00FF88&style=flat-square)&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/Shubii8760?label=Followers&color=00FF88&style=flat-square)&nbsp;
+![GitHub User's stars](https://img.shields.io/github/stars/Shubii8760?label=Stars&color=00FF88&style=flat-square)
+
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=PHP+Developer+%7C+Laravel+Craftsman;WooCommerce+%26+WordPress+Specialist;Laravel+Forge+%7C+Server+Whisperer+%F0%9F%94%A5;Building+e-commerce+solutions+since+day+one;Shimla+%E2%86%92+Production+Servers+worldwide+%F0%9F%8C%90)](https://git.io/typing-svg)
 
 **PHP Developer · WooCommerce Expert · Laravel Specialist**
 
@@ -18,6 +25,7 @@
 {
   "name"        : "Shubham Sharma",
   "location"    : "Shimla, Himachal Pradesh 🏔️",
+  "altitude"    : "2206m above sea level ❄️",
   "role"        : "PHP Developer · WooCommerce Expert · Laravel Specialist",
   "specialties" : [
     "Custom WooCommerce plugins & themes",
@@ -38,35 +46,35 @@
 
 **Backend & Core**
 
-![PHP](https://img.shields.io/badge/PHP_8.x-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP_8.x-006400?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-007a2f?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00873E?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009960?style=for-the-badge&logo=fastapi&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-2d6a4f?style=for-the-badge&logo=composer&logoColor=white)
 
 **WordPress & E-Commerce**
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
-![ACF](https://img.shields.io/badge/ACF_Pro-00A0D2?style=for-the-badge&logo=wordpress&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-1b4332?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-2d6a4f?style=for-the-badge&logo=woocommerce&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-1a5c38?style=for-the-badge&logo=elementor&logoColor=white)
+![ACF](https://img.shields.io/badge/ACF_Pro-00a86b?style=for-the-badge&logo=wordpress&logoColor=white)
 
 **DevOps & Servers**
 
-![Laravel Forge](https://img.shields.io/badge/Laravel_Forge-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_CLI-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Laravel Forge](https://img.shields.io/badge/Laravel_Forge-007a2f?style=for-the-badge&logo=laravel&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-006400?style=for-the-badge&logo=nginx&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu_Server-2d6a4f?style=for-the-badge&logo=ubuntu&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-1b4332?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_CLI-00a86b?style=for-the-badge&logo=linux&logoColor=white)
 
 **Frontend & Tooling**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2d6a4f?style=for-the-badge&logo=javascript&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-006400?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap_5-1b4332?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-007a2f?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-009960?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-00873E?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -114,14 +122,30 @@ $laravel_expertise = [
 
 ---
 
-## 📊 GitHub Stats
+## 🏔️ My GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Shubii8760&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C5CFC&icon_color=00D2B4&text_color=C9D1D9&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubii8760&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C5CFC&text_color=C9D1D9&langs_count=6" />
+<img src="https://github-readme-stats.vercel.app/api?username=Shubii8760&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00CC66&text_color=90EE90&count_private=true&show=reviews,prs_merged" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubii8760&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=90EE90&langs_count=6" width="49%" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Shubii8760&theme=tokyonight&hide_border=true&background=0D1117&ring=7C5CFC&fire=FF6B6B&currStreakLabel=00D2B4)
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Shubii8760&theme=merko&hide_border=true&background=0D1117&ring=00FF88&fire=00CC66&currStreakLabel=00FF88&sideLabels=90EE90&dates=4a9e6e&currStreakNum=00FF88&sideNums=90EE90)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shubii8760/Shubii8760/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shubii8760/Shubii8760/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Shubii8760/Shubii8760/output/github-snake.svg" />
+</picture>
 
 </div>
 
@@ -157,16 +181,17 @@ $laravel_expertise = [
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Shubii8760-181717?style=for-the-badge&logo=github)](https://github.com/Shubii8760)
-[![Email](https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-Shubii8760-006400?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubii8760)
+[![Email](https://img.shields.io/badge/Email-Hire_Me-007a2f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2d6a4f?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
----
+<br/>
 
 > *"Any fool can write code that a computer can understand.*
 > *Good programmers write code humans can understand."*
 > — Martin Fowler
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shubii8760&color=7C5CFC&style=flat-square&label=Profile+Views)
-
 </div>
+
+<!-- WAVE BANNER BOTTOM -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,50:2d6a4f,100:0D1117&height=120&section=footer)
